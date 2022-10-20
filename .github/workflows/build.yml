@@ -19,4 +19,3 @@ jobs:
         flutter-version: '3.3.3'
     - run: flutter pub get
     - run: flutter build apk --info
-    - run: flutter build appbundle
